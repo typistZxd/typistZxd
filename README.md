@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ### ![visitors count](https://visitors-by-url-pls-dont-use-this-in-your-repo.vercel.app/typistZxd-github-readme)
-<img src="https://github-readme-stats.vercel.app/api?username=typistZxd&show_icons=true&icon_color=e9861a&text_color=24292e&bg_color=transparent&hide_title=false?" />
+<img src="https://github-readme-stats.vercel.app/api?username=typistZxd&show_icons=true&theme=great-gatsby" />
 
 <!--
 **typistZxd/typistZxd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
